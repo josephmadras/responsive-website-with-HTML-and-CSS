@@ -6,3 +6,7 @@ $grayishBlue: hsl(233, 8%, 62%);
 $lightGrayishBlue: hsl(220, 16%, 96%);
 $veryLightGray: hsl(0, 0%, 98%);
 $white: hsl(0, 0%, 100%);
+
+//Font sizes
+$font-sm: 0.875rem; // 14px. To get the rem values, px were divided by 16. Hence, 14/16=0.875rem
+$font-md: 1.125rem; // 16px
